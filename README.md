@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, everyone who comes here. From this page you can understand what kind of person I am. If you want to know more, you can visit my [blog](https://litterboys.xyz)
+
 <!--
 **cserwen/cserwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
